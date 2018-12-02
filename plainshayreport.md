@@ -18,3 +18,7 @@ Build model to determine the implied price of product if no quotes from that wee
 If possible, obtain historical data and track year-over-year
 
 Also report regional degree days and precipitation
+
+Retrieve adverts from craigslist and other boards to use as comparison point.
+
+- Are advertised prices lower or higher than the USDA reported prices?
